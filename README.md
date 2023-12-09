@@ -12,6 +12,6 @@ A aplicação busca ser orientada como um projeto de gestão de negócios voltad
 * Victor Hugo Vasquez da Silva,
 * Wesney Andrade Souza.
 
-## Professor
+## Professora
 
 * Rosilane Ribeiro Mota
