@@ -1,16 +1,17 @@
-# Nome do projeto
+# flyBR
 
-Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
+A aplicação busca ser orientada como um projeto de gestão de negócios voltada ao ramo de turismo. Inicialmente, a aplicação trabalhará apenas com voos domésticos (nacionais), além de oferecer pacotes de viagens incluindo aquisição de passagens aéreas, estadia em hotéis, serviços de translado in/out e outros serviços que as demais agências de turismo oferecem.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Gabriel Amorim Santos Maia,
+* Lucas Morais Barcelos,
+* Paulo Alves Andrade,
+* Pedro Henrique Nunes Alves,
+* Ricardo de Andrade,
+* Victor Hugo Vasquez da Silva,
+* Wesney Andrade Souza.
 
 ## Professor
 
-* Nome completo do professor
+* Rosilane Ribeiro Mota
